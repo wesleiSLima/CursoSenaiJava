@@ -7,8 +7,6 @@ public class Exercicio1 {
 
 	public static void main(String[] args) {
 
-		// atividade1
-
 		Scanner sc = new Scanner(System.in).useLocale(Locale.US);
 
 		double num1, num2;
