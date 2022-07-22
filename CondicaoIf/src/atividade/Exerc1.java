@@ -7,9 +7,9 @@ public class Exerc1 {
 
 	public static void main(String[] args) {
 
-		//Faça um programa que peça o nome e a senha e faça a verificação de uma variável que obtenha a senha e o usuário
-		//(como se fosse cadastrado) e retorne erro caso a senha ou o usuário esteja errado.
-		//A mensagem a ser mostrada deve ser de acordo com o respectivo erro!
+		// Faça um programa que peça o nome e a senha e faça a verificação de uma variável que obtenha a senha e o usuário
+		// (como se fosse cadastrado) e retorne erro caso a senha ou o usuário esteja errado.
+		// A mensagem a ser mostrada deve ser de acordo com o respectivo erro!
 
 		Scanner sc = new Scanner(System.in).useLocale(Locale.US);
 

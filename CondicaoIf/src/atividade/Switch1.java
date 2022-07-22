@@ -11,8 +11,10 @@ public class Switch1 {
 		 * Faça um programa que peça ao usuário para escolher o item de um menu e a
 		 * quantidade: (apenas 1 item)
 		 * 
-		 * 1 - sanduiche natureba 2 - Sanduba Bomba 3 - Coxinha de Jaca 4 - Feijoada
-		 * vegetariana
+		 * 1 - sanduiche natureba 
+		 * 2 - Sanduba Bomba 
+		 * 3 - Coxinha de Jaca 
+		 * 4 - Feijoada vegetariana
 		 * 
 		 */
 
