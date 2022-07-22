@@ -39,15 +39,15 @@ public class CondicaoIf {
 
 		System.out.print("Digite outro número inteiro: ");
 		n3 = sc.nextInt();
-		
-		if ( n1 > n2 && n1 > n3 ) {
-			
+
+		if (n1 > n2 && n1 > n3) {
+
 			System.out.printf("%d é o maior deles.", n1);
-			
+
 		} else {
-			
-			System.out.println(( n2 > n3 ) ? n2 + " é o maior dels" : n3 + " é o maior deles");
-			
+
+			System.out.println((n2 > n3) ? n2 + " é o maior dels" : n3 + " é o maior deles");
+
 		}
 
 		sc.close();
